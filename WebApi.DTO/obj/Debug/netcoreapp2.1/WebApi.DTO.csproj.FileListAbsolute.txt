@@ -1,0 +1,12 @@
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\bin\Debug\netcoreapp2.1\WebApi.DTO.deps.json
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\bin\Debug\netcoreapp2.1\WebApi.DTO.dll
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\bin\Debug\netcoreapp2.1\WebApi.DTO.pdb
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\obj\Debug\netcoreapp2.1\WebApi.DTO.csprojAssemblyReference.cache
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\obj\Debug\netcoreapp2.1\WebApi.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\obj\Debug\netcoreapp2.1\WebApi.DTO.AssemblyInfoInputs.cache
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\obj\Debug\netcoreapp2.1\WebApi.DTO.AssemblyInfo.cs
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\obj\Debug\netcoreapp2.1\WebApi.DTO.csproj.CopyComplete
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\obj\Debug\netcoreapp2.1\WebApi.DTO.dll
+C:\Users\Ruchika\source\repos\Jethro\WebApi.DTO\obj\Debug\netcoreapp2.1\WebApi.DTO.pdb

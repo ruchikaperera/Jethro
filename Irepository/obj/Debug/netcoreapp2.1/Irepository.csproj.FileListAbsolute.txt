@@ -1,0 +1,12 @@
+C:\Users\Ruchika\source\repos\Jethro\Irepository\bin\Debug\netcoreapp2.1\Irepository.deps.json
+C:\Users\Ruchika\source\repos\Jethro\Irepository\bin\Debug\netcoreapp2.1\Irepository.dll
+C:\Users\Ruchika\source\repos\Jethro\Irepository\bin\Debug\netcoreapp2.1\Irepository.pdb
+C:\Users\Ruchika\source\repos\Jethro\Irepository\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Ruchika\source\repos\Jethro\Irepository\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Ruchika\source\repos\Jethro\Irepository\obj\Debug\netcoreapp2.1\Irepository.csprojAssemblyReference.cache
+C:\Users\Ruchika\source\repos\Jethro\Irepository\obj\Debug\netcoreapp2.1\Irepository.csproj.CoreCompileInputs.cache
+C:\Users\Ruchika\source\repos\Jethro\Irepository\obj\Debug\netcoreapp2.1\Irepository.AssemblyInfoInputs.cache
+C:\Users\Ruchika\source\repos\Jethro\Irepository\obj\Debug\netcoreapp2.1\Irepository.AssemblyInfo.cs
+C:\Users\Ruchika\source\repos\Jethro\Irepository\obj\Debug\netcoreapp2.1\Irepository.csproj.CopyComplete
+C:\Users\Ruchika\source\repos\Jethro\Irepository\obj\Debug\netcoreapp2.1\Irepository.dll
+C:\Users\Ruchika\source\repos\Jethro\Irepository\obj\Debug\netcoreapp2.1\Irepository.pdb

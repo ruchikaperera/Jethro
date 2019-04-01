@@ -1,0 +1,9 @@
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\bin\Debug\netcoreapp2.1\DBConnect.deps.json
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\bin\Debug\netcoreapp2.1\DBConnect.dll
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\bin\Debug\netcoreapp2.1\DBConnect.pdb
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\obj\Debug\netcoreapp2.1\DBConnect.csprojAssemblyReference.cache
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\obj\Debug\netcoreapp2.1\DBConnect.csproj.CoreCompileInputs.cache
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\obj\Debug\netcoreapp2.1\DBConnect.AssemblyInfoInputs.cache
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\obj\Debug\netcoreapp2.1\DBConnect.AssemblyInfo.cs
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\obj\Debug\netcoreapp2.1\DBConnect.dll
+C:\Users\Ruchika\source\repos\Jethro\DBConnect\obj\Debug\netcoreapp2.1\DBConnect.pdb
